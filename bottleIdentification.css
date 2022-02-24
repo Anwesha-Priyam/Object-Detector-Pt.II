@@ -1,0 +1,10 @@
+body
+{
+    background-image: url("bg1.png");
+    background-position: cover;
+}
+
+img
+{
+    width: 220px;
+}
